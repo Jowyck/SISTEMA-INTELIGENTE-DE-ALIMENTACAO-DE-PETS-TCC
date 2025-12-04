@@ -1,0 +1,2 @@
+# SISTEMA-INTELIGENTE-DE-ALIMENTACAO-DE-PETS-TCC
+Código para Arduino Uno e Imagens da Programação em Blocos do APP desenvolvido no MIT APP INVENTOR - TCC SISTEMA INTELIGENTE DE ALIMENTAÇÃO DE PETS
