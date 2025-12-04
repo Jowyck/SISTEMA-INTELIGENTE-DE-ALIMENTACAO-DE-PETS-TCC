@@ -1,0 +1,18 @@
+# Arquivos do Arduino
+*.ino
+*.hex
+*.elf
+*.eep
+*.bin
+*.map
+
+# Build directories
+build-*/
+*.build/
+
+# IDE temporários
+*.tmp
+
+# Sistema
+.DS_Store
+Thumbs.db
